@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+plotly
+dash
+dash-bootstrap-components
+openpyxl
+pyarrow
+nbformat>=5.10.4
